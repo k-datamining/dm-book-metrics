@@ -45,3 +45,19 @@ div.social-buttons {
         display: inline;
     }
 }
+
+div.extra-nav {
+
+    li {
+        list-style: none;
+        text-align: left;
+    }
+
+    li.ttl {
+        font-weight: bold;
+    }
+
+    li.itm {
+        margin-left: 1em;
+    }
+}

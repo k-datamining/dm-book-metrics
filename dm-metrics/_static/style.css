@@ -38,4 +38,17 @@ footer div.container p:nth-child(1) {
 div.social-buttons li {
   display: inline;
 }
+
+div.extra-nav li {
+  list-style: none;
+  text-align: left;
+}
+
+div.extra-nav li.ttl {
+  font-weight: bold;
+}
+
+div.extra-nav li.itm {
+  margin-left: 1em;
+}
 /*# sourceMappingURL=style.css.map */
