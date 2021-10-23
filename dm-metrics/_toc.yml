@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: モデル選択
+  chapters:
+  - file: metrics/model-selection/CrossValidation.ipynb
+  - file: metrics/model-selection/層状k分割交差検証.ipynb
+  - file: metrics/model-selection/検証曲線.ipynb
+- caption: 分類
+  chapters:
+  - file: metrics/classification/ROC-AUC.ipynb
+- caption: 回帰
+  chapters:
+  - file: metrics/regression/決定係数.ipynb

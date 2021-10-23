@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+  font-family: "M PLUS 1p";
+}
+
+/* navの調整 */
+div.section h1 {
+  font-size: 1.5em;
+}
+
+div.section h2,
+div.section h3,
+div.section h4 {
+  font-size: 1.3em;
+}
+
+ul.bd-sidenav:nth-child(n + 2) {
+  margin-left: 1em;
+}
+
+/* binderを非表示にする */
+div.dropdown-buttons-trigger i.fa-rocket {
+  display: none;
+}
+
+div.dropdown-buttons-trigger a.binder-button {
+  display: none;
+}
+
+div#site-navigation {
+  background: #d6e2e9;
+}
+
+footer div.container p:nth-child(1) {
+  display: none;
+}
+
+div.social-buttons li {
+  display: inline;
+}
+/*# sourceMappingURL=style.css.map */
