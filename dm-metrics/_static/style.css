@@ -51,4 +51,13 @@ div.extra-nav li.ttl {
 div.extra-nav li.itm {
   margin-left: 1em;
 }
+
+div.hint p.admonition-title {
+  color: rgba(255, 255, 255, 0);
+}
+
+div.hint p.admonition-title::before {
+  content: "ドキュメントへのリンク" !important;
+  width: 12em !important;
+}
 /*# sourceMappingURL=style.css.map */

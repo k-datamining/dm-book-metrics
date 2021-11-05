@@ -61,3 +61,14 @@ div.extra-nav {
         margin-left: 1em;
     }
 }
+
+div.hint {
+    p.admonition-title {
+        color: hsla(0, 100%, 100%, 0.0);
+    }
+
+    p.admonition-title::before {
+        content: "ドキュメントへのリンク" !important;
+        width: 12em !important;
+    }
+}
