@@ -4,7 +4,7 @@
 
 ## 他の資料
 
-- [機械学習の基本](https://k-datamining.github.io/dm-book/intro.html#)
+- [K_DM](https://k-datamining.github.io/dm-book/intro.html#)
 - [各評価指標の見方](https://k-datamining.github.io/dm-book-metrics/intro.html)
 - [データの前処理の仕方](https://k-datamining.github.io/dm-book-prep/intro.html)
 
