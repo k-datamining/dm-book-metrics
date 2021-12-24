@@ -1,6 +1,11 @@
 @charset "UTF-8";
 body {
   font-family: "M PLUS 1p";
+  background-color: #d6e2e9;
+}
+
+main {
+  background-color: #fff;
 }
 
 /* navの調整 */
@@ -12,6 +17,17 @@ div.section h2,
 div.section h3,
 div.section h4 {
   font-size: 1.3em;
+}
+
+button.toggle-button.toggle-button-hidden:before {
+  content: "非表示となっているコードを表示する" !important;
+  position: absolute;
+  font-size: .8em;
+  left: -21.0em !important;
+  width: 20em !important;
+  top: 0.05em !important;
+  color: #bbb !important;
+  bottom: .4em;
 }
 
 ul.bd-sidenav:nth-child(n + 2) {
