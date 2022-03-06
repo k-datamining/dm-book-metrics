@@ -1,7 +1,3 @@
-﻿body {
-    background-color: #d6e2e9;
-}
-
-div#site-navigation {
-    background: #d6e2e9;
+﻿div#site-navigation {
+    background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);
 }
