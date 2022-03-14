@@ -9,4 +9,4 @@
 - [K_DM - アルゴリズム](https://k-datamining.github.io/dm-book/intro.html)
 - [K_DM - 前処理](https://k-datamining.github.io/dm-book-prep/intro.html)
 - [K_DM - 評価指標](https://k-datamining.github.io/dm-book-metrics/intro.html)
-- [K_DM - 時系列](https://github.com/k-datamining/dm-ts)
+- [K_DM - 時系列](https://k-datamining.github.io/dm-ts/intro.html)
