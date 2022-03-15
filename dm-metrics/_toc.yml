@@ -14,6 +14,7 @@ parts:
       - file: metrics/classification/ROC-AUC.ipynb
   - caption: 回帰
     chapters:
+      - file: metrics/regression/相関係数.ipynb
       - file: metrics/regression/決定係数.ipynb
   - caption: 参考文献・補足資料
     chapters:
